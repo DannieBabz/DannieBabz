@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @DannieBabz
-- 👀 I’m interested in learning web development
-- 🌱 I’m currently learning JavaScript and making projects using what I've learned
-- 💞️ I’m looking to collaborate on any web development projects
-- 📫 How to reach me similoluwababatunde@gmail.com
-- [![Twitter Follow](https://img.shields.io/twitter/follow/Dannie_Babz?color=blue&logo=white&style=for-the-badge)](https://twitter.com/Dannie_Babz)
-- [![Linkedin Connect](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/babatunde-daniel-76786b229/)
+# Hi, I'm Daniel! 👋
+
+
+## 🚀 About Me
+I'm a front end developer...
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on some personal projects
+
+🧠 I'm currently learning JavaScript
+
+👯‍♀️ I'm looking to collaborate on Web Development gigs
+
+🤔 I'm looking for help with getting
+
+📫 You can reach me by mail @similoluwababatunde@gmail.com
+
+⚡️ I love cooking
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/babatunde-daniel-76786b229/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Dannie_Babz)
+
+
+## 🛠 Skills
+Javascript, HTML, CSS
+
 
 <!---
 DannieBabz/DannieBabz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
