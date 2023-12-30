@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm a front end developer...
+I'm a front-end developer...
 
 
 ## Other Common Github Profile Sections
